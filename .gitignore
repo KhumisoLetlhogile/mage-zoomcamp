@@ -172,3 +172,6 @@ scratch*
 magic-zoomcamp
 *.json
 
+#other
+*.sf
+*.variable.tf
